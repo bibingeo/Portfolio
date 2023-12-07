@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Lora:wght@500&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;1,100;1,300;1,400;1,500&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Varela&display=swap');
+
+.Header{
+    height : 50px;
+    display: flex;
+    align-items: center;
+    justify-content :space-between;
+    background-color: white;
+}
+
+.logo{
+    padding-left : 100px;
+    font-family :'poppins'
+}
+.navItem{
+    padding-right: 100px;
+}
+.navItem-ul{
+    display: flex;
+}
+.nav-li{
+    padding :5px 15px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family :'poppins'
+}
+
+
