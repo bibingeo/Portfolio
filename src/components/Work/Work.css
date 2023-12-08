@@ -3,6 +3,9 @@
 .work-exp{
     display: flex;
     flex-direction: column;
+    background-color: #EBEBEB;
+    margin-top : 40px;
+    padding-bottom : 30px;
 }
 .work-exp1{
     display: flex;

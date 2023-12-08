@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import img from '../../assets/images/3.png'
+import img from '../../assets/images/4.png'
 
 const Home = () => {
   return (
